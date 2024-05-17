@@ -1,5 +1,5 @@
 // İleri JavaScript özellikleri buraya eklenebilir.
-function disableselect(e){
+/*function disableselect(e){
 	return false
 }
 
@@ -14,5 +14,5 @@ document.onselectstart=new Function ("return false")
 if (window.sidebar){
 	document.onmousedown=disableselect
 	document.onclick=reEnable
-}
+}*/
 // Şu anlık boş bırakıyorum.
